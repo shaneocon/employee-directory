@@ -1,9 +1,15 @@
 import React from "react";
 import "./App.css";
-import SearchResultContainer from "./components/SearchResultContainer";
+import Header from "./components/Header";
+import EmployeesContainer from "./components/Container/EmployeesContainer";
 
-function App() {
-  return <SearchResultContainer />;
-}
+const App = () => {
+  return (
+    <>
+      <Header />
+      <EmployeesContainer />
+    </>
+  );
+};
 
 export default App;
