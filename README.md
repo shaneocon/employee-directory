@@ -15,9 +15,8 @@ The user should be able to:
 
 - Filter the users by at least one property.
 
-
-
-
+## App Demo
+![Employee Directory](./public/directory.gif)
 
 
 
