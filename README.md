@@ -3,6 +3,8 @@
 ## 2-17-21
 ## Description
 This employee directory is built with React.  App's UI is built into components. 
+
+User able to sort directory by clicking on category header
 ## User Story
 - As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 ## Acceptance Criteria
